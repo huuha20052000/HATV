@@ -9,15 +9,7 @@ https://player.vimeo.com/external/190550883.sd.mp4?s=86bb2ad28289b6377e5cd4ba37a
 
 
 
-#-*-- VTV FPT -*--#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
-http://live.vthanhtivi.pw:8080/vtv1
-#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
-http://live.vthanhtivi.pw:8080/vtv3
-#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
-http://live.vthanhtivi.pw:8080/vtv5
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 FPT
-http://live.vthanhtivi.pw:8080/vtv6
+
 
 
 #-*--VTV-*--#
