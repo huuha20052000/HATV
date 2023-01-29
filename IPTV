@@ -760,7 +760,9 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🌏|Nhóm kênh Quốc Tế" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/27/ngk2o2wa_livetv-thumb.webp", DMAX
 #EXTVLCOPT:http-user-agent=AloTV
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
+#EXTINF:0 tvg-id="dmaxhd"group-title="🌏|Nhóm kênh Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg", DMAX
+#EXTVLCOPT:http-user-agent="KIIP"
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
 
 
 #-*--Kênh Khám Phá-*--#
