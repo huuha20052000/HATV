@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 
-#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://pix10.agoda.net/hotelImages/502925/-1/931d35a64f61e0033946d5aafa11f321.jpg?ca=16&ce=1&s=1024x768",Wellcome GALAXY HOTEL
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://pix10.agoda.net/hotelImages/502925/-1/931d35a64f61e0033946d5aafa11f321.jpg?ca=16&ce=1&s=1024x768",Wellcome To GALAXY HOTEL
 https://raw.githubusercontent.com/huuha20052000/HATV/main/GalaxyHotel.mp4
 
 
