@@ -8,9 +8,6 @@ https://github.com/huuha20052000/HATV/blob/main/GalaxyHotel.mp4
 
 
 
-<video class="wp-video-shortcode" id="video-138-1_html5" width="560" height="320" preload="metadata" __idm_id__="1998849" src="http://thinkingform.com/wp-content/uploads/2017/09/video-sample-mp4.mp4?_=1" style="width: 560px; height: 320px;"><source type="video/mp4" src="http://thinkingform.com/wp-content/uploads/2017/09/video-sample-mp4.mp4?_=1"><a href="http://thinkingform.com/wp-content/uploads/2017/09/video-sample-mp4.mp4">http://thinkingform.com/wp-content/uploads/2017/09/video-sample-mp4.mp4</a></video>
-
-
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
