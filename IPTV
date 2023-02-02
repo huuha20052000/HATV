@@ -1007,6 +1007,8 @@ https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
 
 
 #-*-Kênh K+ Test-*--#
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ CINE" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" group-title="K+",K+ CINE
 http://plus.vthanhtivi.pw:80/hapham/200986/1.ts
 #EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ KIDS" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png" group-title="K+",K+ KIDS
@@ -1017,7 +1019,24 @@ http://plus.vthanhtivi.pw:80/hapham/200986/2.ts
 http://plus.vthanhtivi.pw:80/hapham/200986/3.ts
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="K+",K+ SPORT2
 http://plus.vthanhtivi.pw:80/hapham/200986/4.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="ON Sports" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" group-title="VTVcab",ON Sports
+http://plus.vthanhtivi.pw:80/hapham/200986/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sports+" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" group-title="VTVcab",ON Sports+
+http://plus.vthanhtivi.pw:80/hapham/200986/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Football" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" group-title="VTVcab",ON Football
+http://plus.vthanhtivi.pw:80/hapham/200986/100.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sports News" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" group-title="VTVcab",ON Sports News
+http://plus.vthanhtivi.pw:80/hapham/200986/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Golf" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" group-title="VTVcab",ON Golf
+http://plus.vthanhtivi.pw:80/hapham/200986/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV1" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" group-title="VTV",VTV1
+http://plus.vthanhtivi.pw:80/hapham/200986/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV3" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" group-title="VTV",VTV3
+http://plus.vthanhtivi.pw:80/hapham/200986/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV5" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" group-title="VTV",VTV5
+http://plus.vthanhtivi.pw:80/hapham/200986/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV Cần Thơ" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" group-title="VTV",VTV Cần Thơ
+http://plus.vthanhtivi.pw:80/hapham/200986/106.ts
 
 
 
