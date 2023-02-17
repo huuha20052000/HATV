@@ -859,6 +859,10 @@ https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+#EXTINF:-1,K+ TEST
+http://plus.vthanhtivi.pw:80/playlist/dieulinh/200996/m3u?output=hls
+
 #EXTINF:-1,K+ CINE
 http://plus.vthanhtivi.pw:80/dieulinh/200996/1.m3u8
 #EXTINF:-1,K+ LIFE
